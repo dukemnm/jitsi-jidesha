@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "name": "Jitsi Desktop Streamer",
+  "name": "MTTS Trading Desktop Streamer",
   "description": "A simple extension that allows you to stream your desktop into meetings with Jitsi Meet and Jitsi Videobridge.",
   "version": "0.1.5",
   "minimum_chrome_version": "34",
